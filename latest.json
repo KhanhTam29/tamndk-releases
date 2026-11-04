@@ -1,6 +1,6 @@
 {
-  "version": "0.1.3",
-  "installer": "TamNDK-Setup-0.1.3.exe",
-  "sha256": "87587536fda6faad5afff3735bf2f8903ddb720ed8b63fd56698f306db64fcfc",
-  "downloadUrl": "https://github.com/KhanhTam29/tamndk-releases/releases/download/v0.1.3/TamNDK-Setup-0.1.3.exe"
+  "version": "0.1.1",
+  "installer": "TamNDK-Setup-0.1.1.exe",
+  "sha256": "7104a813cf46490650b88f4976c7da2b298155a5f63f1423e42f128b1189a757",
+  "downloadUrl": "https://github.com/KhanhTam29/tamndk-releases/releases/download/v0.1.1/TamNDK-Setup-0.1.1.exe"
 }
